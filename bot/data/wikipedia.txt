@@ -9,9 +9,9 @@ composita,https://en.wikipedia.org/wiki/Composita
 juresania,https://en.wikipedia.org/wiki/Witts_Springs_Formation
 mucrospirifer,https://en.wikipedia.org/wiki/Mucrospirifer
 platystrophia,https://en.wikipedia.org/wiki/Platystrophia
-rafinesquina,https://en.wikipedia.org/wiki/Tabulata
-rhynchonellida,https://en.wikipedia.org/wiki/Brachiopod
-acer,https://en.wikipedia.org/wiki/Acer_palaeorufinerve
+rafinesquina,https://en.wikipedia.org/wiki/Rafinesquina
+rhynchonellida,https://en.wikipedia.org/wiki/Rhynchonellida
+acer,https://en.wikipedia.org/wiki/Acer
 populus,https://en.wikipedia.org/wiki/Populus
 platanus,https://en.wikipedia.org/wiki/Platanus
 ginkgo,https://en.wikipedia.org/wiki/Ginkgo
@@ -67,7 +67,7 @@ equus,https://en.wikipedia.org/wiki/Horse
 australopithecus,https://en.wikipedia.org/wiki/Australopithecus
 homo neanderthalensis,https://en.wikipedia.org/wiki/Neanderthal
 homo erectus,https://en.wikipedia.org/wiki/Homo_erectus
-homo sapiens,https://en.wikipedia.org/wiki/Homo_sapiens_idaltu
+homo sapiens,https://en.wikipedia.org/wiki/Homo_sapiens
 mammut,https://en.wikipedia.org/wiki/Mastodon
 mammuthus primigenius,https://en.wikipedia.org/wiki/Woolly_mammoth
 megacerops,https://en.wikipedia.org/wiki/Megacerops
